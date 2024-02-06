@@ -2,9 +2,9 @@
 
 This Python script performs the following operations
 
-1. Recurse the "input_images" folder and all of it's sub-folders
+1. Recurse the "input images" folder and all of it's sub-folders
 2. Find any .jpg image in the folders
-3. Convert all 'jg images to w.webp images at 75% JPEG quality
+3. Convert all .jpg images to .webp images at 75% JPEG quality
 4. Output the .webp images and input folder structure to the "output_images" folder
 
 ## Libraries used "Pillow"

@@ -8,11 +8,14 @@ This Python script performs the following operations
 4. Output the .webp images and input folder structure to the "output_images" folder
 
 ## Libraries used "Pillow"
+
 To install Pillow use "pip install Pillow" (without the " characters)
 
 ## Before running the file
+
 1. Create folder "input_folder" if it does not already exist
 2. Create folder "output_folder" if it does not already exist
 
 ## To run the file
+
 To run this file use "python convert_jpg_to_webp" (without the " characters)

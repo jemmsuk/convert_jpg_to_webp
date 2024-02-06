@@ -1,4 +1,4 @@
-# Convert jpg to webp image files
+# Convert .jpg to .webp image files
 
 This Python script performs the following operations
 
